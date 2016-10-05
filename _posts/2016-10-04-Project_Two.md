@@ -1,4 +1,5 @@
-#Project two Post#
+#Billboard Top 100 Analysis#
+
 Thanks for tuning in to today's radio story about Billboard Top 100 data! Let's review some of the specifics of the report. 
 
 In the analysis we noticed that many songs dropped off after their 20th week on the charts. Our experts at the radio station said this could be because longer songs tend not to last very long on the charts. We found this very interesting, so we wanted to test it. 
@@ -7,7 +8,7 @@ In the analysis we noticed that many songs dropped off after their 20th week on 
 
 But before jumping in, genre was visualized to see if there sound be anything else we could be looking into. The graph below shows that there were far more Rock songs on the list than any other, but that is no surprise considering our station loves rock and all of you out there love it too.
 
-![](http://i66.tinypic.com/rumiat.png =500x)
+<img src="http://i66.tinypic.com/rumiat.png" width="800">
 
 The data supplied by Billboard only tracks songs that have peaked, not all music that has made it to the the top 100, so it is difficult to make extensive assumptions around the genre data. Moving forward the analysis steered clear of evaluating by genre. 
 
@@ -15,17 +16,15 @@ We decided to revisit our first conundrum, does the length of the song effect th
 
 A visualization of the data shows that there is a relative normal distribution of song length to weeks on billboard. Also, comparing Long (in magenta) to Short(in green) doesnt show any significant differences. 
 
-![](http://i65.tinypic.com/23ksrba.png =500x)
+<img src="http://i65.tinypic.com/23ksrba.png" width="800">
 
 Some assumptions were made in the analysis of this data:
-
 -Assume that Rock n Roll is the same as Rock 
 
 -Assume that all artists are properly labeled with the proper genre
 
 
 Review of Hypotheses:
-
 -Null Hypothesis: Regardless of length of song, a song will apply to the normal distribution of weeks on Billboard
 
 -Alternate Hypothesis: The shorter the song the longer it lasts on Billboard
