@@ -1,11 +1,11 @@
 # Site
-title:              SAM J FALk
+title:              SAM J FALK
 bio:                Data Scientist // Data Analyst
 description:        "Falkin' Data"
 reading_time:       true
 words_per_minute:   200
 logo:               'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAeYAAAAJDMyNWUyZjk5LTlhZjMtNDVhMi05NjU0LTcwZjA1OWE0MThjYQ.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'http://sdeerwallpaper.com/Cool-Wallpapers/new-york-on-black-and-white-wallpaper-background-Is-Cool-Wallpapers.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://samjfalk.github.io/
