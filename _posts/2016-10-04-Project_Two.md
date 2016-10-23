@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Project 2"
+date: 2016-10-19
+excerpt: "Billboard top 100 Analysis"
+tags: [HR, Regression, Model]
+comments: false
+---
+
 #Billboard Top 100 Analysis#
 
 Thanks for tuning in to today's radio story about Billboard Top 100 data! Let's review some of the specifics of the report. 
