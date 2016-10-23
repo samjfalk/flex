@@ -4,7 +4,7 @@ bio:                Data Scientist // Data Analyst
 description:        "Falkin' Data"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://img1.etsystatic.com/003/0/6987312/il_fullxfull.365204373_tk90.jpg'
+logo:               'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAeYAAAAJDMyNWUyZjk5LTlhZjMtNDVhMi05NjU0LTcwZjA1OWE0MThjYQ.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
