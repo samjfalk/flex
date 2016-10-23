@@ -1,59 +1,44 @@
-flex
-====
+Solar Theme for Jekyll
+======================
 
-Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
+A stylish theme for [Jekyll](http://jekyllrb.com/) blogs, based on the [Solarized](http://ethanschoonover.com/solarized) color palette.
 
-The theme is based on the website [The Development](http://thedevelopment.co).
+![Screenshot](http://i.imgur.com/UnnRhkt.png)
 
-View a demo website [here](http://the-development.github.io/flex/).
+
+Features
+-------
+
+* **Two color schemes** — One for Solarized Dark and one for Solarized Light. Just swap the reference to the `colors-dark.css` file with `colors-light.css` if you don't like light-on-dark.
+* **Linkblog support** — Solar will turn your post title into an external link if you add `external-url: http://example.org` to a post's YAML front matter.
+* **Responsive Design** — Solarized adapts to fit any screen size.
+
 
 Installation
-===
-To use this theme, you would do so like any other Jekyll setup:
+--------------
 
-1. Install Jekyll: `gem install jekyll`
-2. Fork this repository to your machine
-3. `cd` to the forked directory and run `jekyll serve --watch`
-4. Celebrate and dance.
+There are two ways to use Solar. You can either clone-and-go, copying the repository and tweaking the contents to taste, or you can cherry-pick the files you want and integrate them into an existing Jekyll instance. 
 
-Contributions
-===
+If you're starting a new blog, you want to clone-and-go. Just `git clone https://github.com/redwallhp/solar-theme-jekyll.git`, make any changes you want to the template, pages or `_config.yml` and start blogging with Jekyll. Easy.
 
-In general, there are no strict rules for contributing, only that your code is clean and well structured.
+If you're wanting to replace the theme of an existing Jekyll blog, either option should work. If you want to replace files individually, the files and directories you want to make sure to copy are:
 
-For bugs:
-- To merge a fix, you can simply open a pull request.
-- To report one that is not yet fixed, open an issue.
+1. `_layouts`
+2. `archives`
+3. `assets`
+4. `feed.xml`
+5. `index.xml`
 
-Feature requests:
-- **Always** open an issue first before implementing and proposing a new feature. This is only so I can make sure the theme doesn't become bloated with too many features. This way, I can determine if an idea is something that makes sense for the theme's design.
+You'll also want to compare Solar's `_config.yml` with your own, making any appropriate changes.
 
-If in doubt, you can always ask me on Twitter: [@jeffxmn](https://twitter.com/jeffxmn)
+
+Demo
+-------
+
+You can see a demo of Solar [right here on GitHub Pages.](http://mattvh.github.io/solar-theme-jekyll/)
+
 
 License
-===
+---------
 
-Flex is licensed under the MIT license:
-
-
-The MIT License (MIT)
-
-Copyright (c) 2013-2014 Jeff Martin
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+GPLv2 or higher
