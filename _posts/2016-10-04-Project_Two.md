@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Project 2"
+title: "Billboard Top 100"
 date: 2016-10-19
-excerpt: "Billboard top 100 Analysis"
+excerpt: "Exploratory Data Analysis"
 tags: [HR, Regression, Model]
 comments: false
 ---

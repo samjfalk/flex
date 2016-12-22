@@ -6,4 +6,6 @@ date: 2016-03-21
 comments: false
 ---
     
-MORE COMING SOON
+Sam is a data nerd and wears that label with pride. 
+
+<img src="http://imgur.com/a/RnGyS" width="800">
