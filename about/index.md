@@ -8,4 +8,4 @@ comments: false
     
 Sam is a data nerd and wears that label with pride. 
 
-<img src="http://i.imgur.com/xzvMU0X.jpg">
+<img src="http://i.imgur.com/xzvMU0X.jpg" width="900">
