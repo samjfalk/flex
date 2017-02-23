@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Billboard Top 100"
-date: 2016-10-19
+date: 2016-10-05
 excerpt: "Exploratory Data Analysis"
 tags: [EDA, GA]
 comments: false
