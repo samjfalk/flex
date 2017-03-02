@@ -7,8 +7,6 @@ tags: [EDA, GA]
 comments: false
 ---
 
-#Billboard Top 100 Analysis#
-
 Thanks for tuning in to today's radio story about Billboard Top 100 data! Let's review some of the specifics of the report. 
 
 In the analysis we noticed that many songs dropped off after their 20th week on the charts. Our experts at the radio station said this could be because longer songs tend not to last very long on the charts. We found this very interesting, so we wanted to test it. 
